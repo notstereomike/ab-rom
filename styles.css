@@ -68,6 +68,8 @@ main {
     position: relative;
 }
 
+
+
 .hero-text {
     position: absolute;
     bottom: 20px;
@@ -124,8 +126,8 @@ article img {
     }
     
     .footer-contact, .footer-social {
-    flex: 1;
-    text-align: left;
+    
+    
     margin-bottom: 0;
     margin-top: 0;
     }
